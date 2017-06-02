@@ -1,8 +1,10 @@
 # Pet Store for DDD Kata
 
 ## 练习材料
+- [为啥又是PetStore!](https://github.com/tw-ms-kata/petstore-materials/blob/master/WhyAnotherPetstore.md)
 - [原始需求清单](https://github.com/tw-ms-kata/petstore-materials/blob/master/EpicStory.md)
 - [API设计模板](https://github.com/tw-ms-kata/petstore-materials/blob/master/ApiDesignTemplate.md)
+- [基础设施准备](https://github.com/tw-ms-kata/petstore-materials/blob/master/InfrastructureSetup.md)
 
 ## 练习步骤
 - 熟悉原始需求材料
