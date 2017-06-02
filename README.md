@@ -18,3 +18,10 @@
 
 ## 参考架构分层
 ![Layer](https://github.com/tw-ms-kata/petstore-materials/raw/master/image/layer.png)
+
+Service Repos:
+
+- [Web BFF](https://github.com/tw-ms-kata/petstore-web-bff)
+- [Order Service](https://github.com/tw-ms-kata/petstore-order-service)
+- [User Service](https://github.com/tw-ms-kata/petstore-user-service)
+- [Inventory Service](https://github.com/tw-ms-kata/petstore-inventory-service)
